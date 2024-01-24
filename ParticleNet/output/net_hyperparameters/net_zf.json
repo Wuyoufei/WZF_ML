@@ -1,0 +1,31 @@
+{
+    "input_dims": 10,
+    "num_classes": 2,
+    "conv_params": [
+        [
+            3,
+            [
+                32,
+                32,
+                32
+            ]
+        ],
+        [
+            3,
+            [
+                64,
+                64,
+                64
+            ]
+        ]
+    ],
+    "fc_params": [
+        [
+            128,
+            0.1
+        ]
+    ],
+    "use_fts_bn": true,
+    "use_counts": true,
+    "use_fusion": false
+}
