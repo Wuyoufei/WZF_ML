@@ -25,7 +25,7 @@ Note:--> for GPUonly script, just input "s"
 ========================================================================
 
 ParticleNeXt still has some bugs need to be fixed.
-ParticleTransformer 老板这周不让我玩,下次再说
+ParticleTransformer 
 
 
 
